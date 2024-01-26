@@ -1,6 +1,6 @@
 {
   "name": "wepy-plugin-check-files",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "监测文件变更",
   "main": "lib/index.js",
   "directories": {
